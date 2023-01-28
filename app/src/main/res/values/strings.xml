@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHubUserS2</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="layar">Selamat datang di Github, mari berpetualang dan unggah karya Anda di depan umum</string>
+    <string name="mulai">Mari kita mulai</string>
+    <string name="githubuser">GitHubUser</string>
+
+
+</resources>
